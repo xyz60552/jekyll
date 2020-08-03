@@ -1,6 +1,6 @@
 # Site settings
 title: XYZ's blog
-description: 
+description: 杂记
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://xyz60552.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -40,7 +40,7 @@ author-email: xyz60552@163.com
 #youtube: https://www.youtube.com/
 
 # Contact Form Settings
-#contact-subtitle: Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Kogi cornhole enamel. # Title for the subscription form.
+contact-subtitle: 反正我是连不上 # Title for the subscription form.
 
 # Google Analytics
 google-analytics: # Add your identifier. For example UA-99631805-1.
