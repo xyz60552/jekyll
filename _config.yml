@@ -1,13 +1,13 @@
 # Site settings
 title: XYZ's blog
-description: 杂记
+description: xyz60552
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://xyz60552.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner Section
 hero: 112.jpg
 hero-title: 我的博客
-hero-description: 现已Jekyll呈现
+hero-description: 现以Jekyll呈现
 
 # Author - Creator
 author-name: XYZ
