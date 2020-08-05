@@ -2,7 +2,7 @@
 title: XYZ's blog
 description: xyz60552
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://xyz60552.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://xyz60552.github.io/jekyll/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner Section
 hero: 112.jpg
